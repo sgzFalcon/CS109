@@ -2,7 +2,7 @@
 ### Week 1 (Mon Aug 31 - Fri Sep 4)
 - ~~Lecture 1: **Course Overview**~~ (Feb 26)
 ### Week 2 (Mon Sep 7 - Fri Sep 11)
-- Lab 1: **Pandas, Python, and Github**
+- ~~Lab 1: **Pandas, Python, and Github**~~ (Feb 26)
 - Lecture 2: Web Scraping. Regular Expressions. Data Reshaping. Data Cleanup. Pandas.
 - Lecture 3: Exploratory Data Analysis
 ### Week 3 (Mon Sep 14 - Fri Sep 18)
