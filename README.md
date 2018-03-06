@@ -7,7 +7,7 @@
 - ~~Lecture 3: Exploratory Data Analysis~~ (Feb 28)
 ### Week 3 (Mon Mar 5 - Fri Mar 9)
 - ~~Lab 2: **Scraping, Pandas, Python, and viz**~~ (Mar 2)
-- Lecture 4: Pandas, SQL, and the Grammar of Data
+- ~~Lecture 4: Pandas, SQL, and the Grammar of Data~~ (Mar 6)
 - Lecture 5: Statistical Models
 ### Week 4 (Mon Mar 12 - Fri Mar 16)
 - Lab 3: **Probability, Distributions, and Frequentist Statistics**
