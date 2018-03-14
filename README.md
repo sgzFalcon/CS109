@@ -10,7 +10,7 @@
 - ~~Lecture 4: Pandas, SQL, and the Grammar of Data~~ (Mar 6)
 - ~~Lecture 5: Statistical Models~~ (Mar 10)
 ### Week 4 (Mon Mar 12 - Fri Mar 16)
-- Lab 3: **Probability, Distributions, and Frequentist Statistics**
+- ~~Lab 3: **Probability, Distributions, and Frequentist Statistics**~~ (Mar 14)
 - Lecture 6: Story Telling and Effective Communication
 - Lecture 7: Bias and Regression
 ### Week 5 (Mon Mar 19 - Mar 23)
